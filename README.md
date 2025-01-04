@@ -2,7 +2,7 @@
 
 *******************************************
 *         Script Name: Posting FB Groups  *
-*         Created by: Youssef Samy        *
+*         Created by: Youssef Joe         *
 *         GitHub: github.com/MrYoussefJoe *
 *         Version: 1.0                    *
 *******************************************
