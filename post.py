@@ -34,7 +34,7 @@ def logo():
         *                                         *
         *         posting fb groups Script        *
         *                                         *
-        *          Created by: youssef samy       *
+        *          Created by: youssef joe        *
         *          GitHub: github.com/MrYoussefJoe*
         *          Version: 1.0                   *
         *                                         *
